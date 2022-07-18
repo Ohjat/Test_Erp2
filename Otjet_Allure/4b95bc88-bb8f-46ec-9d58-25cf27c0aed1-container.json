@@ -1,0 +1,27 @@
+{
+	"uuid": "1f7383b8-2e6e-4199-adb5-ed6473484477",
+	"name": "Контекст_Добавление документа в акупках",
+	"description": "",
+	"children": [
+		"4b95bc88-bb8f-46ec-9d58-25cf27c0aed1"
+	],
+	"befores": [
+		{
+			"name": "Дано Я открыл новый сеанс TestClient или подключил уже существующий",
+			"start": 1658152185261,
+			"stop": 1658152185512,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		}
+	],
+	"start": null,
+	"stop": null
+}
